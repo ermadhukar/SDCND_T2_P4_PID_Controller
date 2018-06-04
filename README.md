@@ -1,4 +1,4 @@
-# CarND-Controls-PID
+# Self-Driving Car PID Controller
 
 In this Project a PID controller is being coded to tune the steering angle of the car, so that it will remain on the track while running autonomously. The code has been writeen in C++ and being simulated in the class Simulator.
 
